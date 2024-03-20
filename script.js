@@ -43,4 +43,4 @@ console.log(oldYoung(27));
 console.log(oldYoung(6));
 console.log(oldYoung(-1));
 console.log(oldYoung(86));
-console.log(oldYoung("12"));
+console.log(oldYoung("15"));
